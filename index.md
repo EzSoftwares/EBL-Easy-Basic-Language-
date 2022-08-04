@@ -14,7 +14,7 @@ Features :
  
  Download
 
-***lATEST VERSION :***
+***LATEST VERSION :***
 
 
 **Download here** [link](https://github.com/EzSoftwares/EBL-Easy-Basic-Language-)
