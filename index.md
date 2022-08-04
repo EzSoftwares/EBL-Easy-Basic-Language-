@@ -8,15 +8,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Easy Basic is a simple low level/ high level interpreted programming language
 
-```markdown
-Syntax highlighted code block
-
- # Features
- 
- **Open Source**
- **Easy to use**
- **Beginner friendly**
- **All purposes programming language**
-
 **Download here** [link](https://github.com/EzSoftwares/EBL-Easy-Basic-Language-)
 ```
